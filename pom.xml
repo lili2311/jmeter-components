@@ -88,7 +88,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jms</artifactId>
-			<version>2.5.3</version>
+			<version>6.1.14</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.qpid</groupId>
@@ -184,7 +184,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
